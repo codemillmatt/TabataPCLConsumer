@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Tabata.iOS/Tabata.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabata.iOS/intervalViewController.cs">
+    <Files>
+      <File FileName="Tabata.Android/TabataAdapter.cs" Line="1" Column="1" />
+      <File FileName="Tabata.Android/WorkoutActivity.cs" Line="36" Column="36" />
+      <File FileName="Tabata.Android/OldTabatas.cs" Line="1" Column="1" />
+      <File FileName="Tabata.iOS/intervalViewController.cs" Line="6" Column="6" />
+      <File FileName="Tabata.iOS/HistoryViewController.cs" Line="40" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
