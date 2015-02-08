@@ -1,4 +1,0 @@
-Tabata.Android.MainActivity;tabata.android.MainActivity
-Tabata.Android.WorkoutActivity;tabata.android.WorkoutActivity
-Tabata.Android.OldTabatas;tabata.android.OldTabatas
-Tabata.Android.TabataAdapter;tabata.android.TabataAdapter
